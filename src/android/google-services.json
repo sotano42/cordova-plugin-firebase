@@ -1,41 +1,40 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "549084341823",
+    "firebase_url": "https://arcade-defender-63359301.firebaseio.com",
+    "project_id": "arcade-defender-63359301",
+    "storage_bucket": "arcade-defender-63359301.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:549084341823:android:286dbb52d3004b59",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.ppstudio.galaxyshipdefender"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "549084341823-0r2m4lv28uhgo6u9rvj2mkuf7o3gj01f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyA41k1v8YWi5M-p1ckuCpeKp39UJYFTXKQ"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549084341823-0r2m4lv28uhgo6u9rvj2mkuf7o3gj01f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-1134932182659157~8586679372"
     }
   ],
   "configuration_version": "1"
